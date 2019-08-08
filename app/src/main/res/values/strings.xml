@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Do Your Thing</string>
+    <string name="hi">Hi, Kunal,</string>
+    <string name="bold_info">Here is your _ Buildcard</string>
+    <string name="bold_project_details">Project Basic Details</string>
+    <string name="name">Name</string>
+    <string name="abc_mobile_app">ABC Mobile App</string>
+    <string name="product">Product Type</string>
+    <string name="change">Change</string>
+    <string name="timezone">My Timezone (GMT +08:00)</string>
+    <string name="price">$45,000</string>
+    <string name="duration">Duration: 15 weeks</string>
+    <string name="start">Start Project</string>
+</resources>

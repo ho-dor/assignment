@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_start">15dp</dimen>
+    <dimen name="margin_top">15dp</dimen>
+    <dimen name="margin_right">10dp</dimen>
+    <dimen name="margin_end">10dp</dimen>
+    <dimen name="margin_bottom">5dp</dimen>
+    <dimen name="margin">20dp</dimen>
+    <dimen name="padding_card">20dp</dimen>
+    <dimen name="radius">5dp</dimen>
+</resources>
